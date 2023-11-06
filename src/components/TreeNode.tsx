@@ -47,7 +47,7 @@ export default function TreeNode({
           >
             -
           </button>
-          <div className="flex flex-col items-center">
+          <div className="flex flex-col items-center mb-3">
             <div className="w-[50px] h-[50px] flex justify-center items-center border-2 border-black rounded-full">
               {nodeIcon}
             </div>
